@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtic3NlbHByeWxpOG1oZ2V1M3lqZGhtcWdxZHlnM3ZvYjAzeHB0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 # 💫 About Me:
 🔭 I’m currently working as a Software Developer<br>👯 I’m looking to collaborate on Backend Project<br>🤝 I’m looking for help with NodeJs<br>🌱 I’m currently learning backend development<br>💬 Ask me about React, React-Redux-toolkit,Frontend Development<br>⚡ Fun fact code responsibly, avoid surprises
 
